@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Javascript and HTML5 web video
+- 🔭 I’m currently working on OTT react app | Javascript and HTML5
 - 🌱 I’m currently learning to build as MSE video player and to learn full stack
 - 👯 I’m looking to collaborate on any exiting web project
 - 💬 Ask me about DRM, HLS, DASH, React
